@@ -1,0 +1,5 @@
+package com.edubridge.hospitalmangementsystem.service;
+
+public class PatientService {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.edubridge.hospitalmangementsystem.repository.AppoinmentRepository.java&apos; to &apos;AppointmentRepository.java&apos;&#x0D;&#x0A;- Original project: &apos;HospitalManagementSystem&apos;&#x0D;&#x0A;- Original element: &apos;com.edubridge.hospitalmangementsystem.repository.AppoinmentRepository.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.edubridge.hospitalmangementsystem.repository.AppointmentRepository.java&apos;" description="Rename compilation unit &apos;AppoinmentRepository.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.edubridge.hospitalmangementsystem.repository{AppoinmentRepository.java" name="AppointmentRepository.java" references="false" stamp="1692372455545" version="1.0"/>
+</session>

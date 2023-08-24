@@ -1,0 +1,5 @@
+package com.edubridge.hospitalmangementsystem.controller;
+
+public class AppointmentController {
+
+}
